@@ -1,5 +1,3 @@
 # satyanarayana
 This is my first repository
-author : narayana
-meerabhai
-satyameerabhai
+he is a very good player
